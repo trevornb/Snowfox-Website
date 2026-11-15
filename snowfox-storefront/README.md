@@ -1,14 +1,15 @@
-# Snowfox Vodka — DTC storefront
+# Snowfox — bilingual storefront (EN / FR-CA)
 
-Branded landing page for **Snowfox Vodka** that sells through the connected Shopify store (`uyw5ju-s0.myshopify.com`).
+Legal-copy build for snowfoxvodka.com direction: dark navy / frost, Moncton company framing, board Where to Buy, Shopify cart permalinks for buyable spirits only.
 
-## How ordering & shipping works
+## Catalog rules (this build)
 
-1. Shoppers pick a bottle on this page.
-2. **Ship to my door** opens a Shopify [cart permalink](https://shopify.dev/docs/apps/build/checkout/create-cart-permalinks) with that variant.
-3. Shopify Checkout collects payment and shipping address.
-4. Domestic rates already on the store (**Standard $12 CAD**, **Express $20 CAD**) apply at checkout.
-5. Paid orders fulfill from the shop location for direct-to-consumer delivery.
+- **Snowfox Vodka** — buyable (Shopify cart)
+- **Snowfox Dill** — buyable (Shopify cart)
+- **Snowfox Premium Rum** — coming-soon teaser, no buy button
+- **Cinnamon Fire** / **Whiskey** — not on the site
+
+Copy sources: `site_copy_v2` + `product_pages_v1` (Law-reviewed). No on-page prices. Origin line: *Blended and bottled in Moncton, NB.*
 
 ## Develop
 

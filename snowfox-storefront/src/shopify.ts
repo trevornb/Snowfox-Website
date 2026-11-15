@@ -1,70 +1,57 @@
-/** Snowfox Shopify store — cart permalinks open native Shopify checkout with DTC shipping. */
+/** Snowfox Shopify store — cart permalinks for buyable products only. */
 export const SHOP_DOMAIN = 'https://uyw5ju-s0.myshopify.com'
-export const CURRENCY = 'CAD'
 
 export type ProductVariant = {
   id: string
   label: string
-  price: string
 }
 
-export type Product = {
-  handle: string
-  title: string
-  tagline: string
-  image: string
-  imageAlt: string
+export type BuyableProduct = {
+  kind: 'buyable'
+  handle: 'vodka' | 'dill'
   variants: ProductVariant[]
+  image: string
   accent: string
 }
 
-export const products: Product[] = [
+export type TeaserProduct = {
+  kind: 'teaser'
+  handle: 'rum'
+  image: string
+  accent: string
+}
+
+export type CatalogProduct = BuyableProduct | TeaserProduct
+
+export const catalog: CatalogProduct[] = [
   {
-    handle: 'snowfox-vodka',
-    title: 'Snowfox Vodka',
-    tagline: 'Clean. Frosted. Built for the cold.',
-    image:
-      'https://cdn.shopify.com/s/files/1/0788/9849/5542/files/2026-10-30_vodka_cutout.png?v=1793378930',
-    imageAlt: 'Snowfox Vodka frosted bottle',
+    kind: 'buyable',
+    handle: 'vodka',
+    image: '/products/vodka.jpg',
     accent: '#9FD4C8',
     variants: [
-      { id: '48399879602230', label: '375 mL', price: '16.52' },
-      { id: '48399879634998', label: '750 mL', price: '29.56' },
-      { id: '48399879667766', label: '1.14 L', price: '43.00' },
+      { id: '48399879602230', label: '375 mL' },
+      { id: '48399879634998', label: '750 mL' },
+      { id: '48399879667766', label: '1.14 L' },
     ],
   },
   {
-    handle: 'snowfox-dill-vodka',
-    title: 'Snowfox Dill',
-    tagline: 'Bright dill. Canadian flag on frost.',
-    image:
-      'https://cdn.shopify.com/s/files/1/0788/9849/5542/files/2026-10-30_dill_original_flag_cutout.png?v=1793496576',
-    imageAlt: 'Snowfox Dill Vodka bottle with Canadian flag',
+    kind: 'buyable',
+    handle: 'dill',
+    image: '/products/dill.jpg',
     accent: '#7CB38A',
-    variants: [{ id: '48342379855926', label: '750 mL', price: '33.92' }],
+    variants: [{ id: '48342379855926', label: '750 mL' }],
   },
   {
-    handle: 'snowfox-cinnamon-fire',
-    title: 'Cinnamon Fire',
-    tagline: 'Warm spice. Sweet heat. Red cap.',
-    image:
-      'https://cdn.shopify.com/s/files/1/0788/9849/5542/files/2026-10-30_cinnamon_fire_cutout.png?v=1793378761',
-    imageAlt: 'Snowfox Cinnamon Fire bottle',
-    accent: '#E07A5F',
-    variants: [{ id: '48342379986998', label: '750 mL', price: '34.56' }],
+    kind: 'teaser',
+    handle: 'rum',
+    image: '/products/rum.jpg',
+    accent: '#C4A574',
   },
 ]
 
-/** Opens Shopify cart → checkout. Shipping rates apply at checkout; order ships DTC after payment. */
+/** Opens Shopify cart → checkout. No prices shown on-site (Law). */
 export function cartCheckoutUrl(variantId: string, quantity = 1): string {
   const qty = Math.max(1, Math.floor(quantity))
   return `${SHOP_DOMAIN}/cart/${variantId}:${qty}`
-}
-
-export function formatPrice(amount: string): string {
-  const value = Number.parseFloat(amount)
-  return new Intl.NumberFormat('en-CA', {
-    style: 'currency',
-    currency: CURRENCY,
-  }).format(value)
 }
