@@ -1,0 +1,834 @@
+{
+  "anbl": [
+    {
+      "type": "corporate",
+      "store": "Bathurst",
+      "address": "#1 - 1125 ave St Peter Ave, E2A 3A1",
+      "town": "Bathurst",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Beresford",
+      "address": "267 rue Commerce St, E8K 0B6",
+      "town": "Beresford",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Bouctouche",
+      "address": "7 - 193 boul. Irving Blvd, E4S 3K4",
+      "town": "Bouctouche",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Campbellton",
+      "address": "130 rue Roseberry Street, E3N 2G9",
+      "town": "Campbellton",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Caraquet",
+      "address": "138 Boul St-Pierre Ouest Blvd, Place de la Gare, E1W 1B6",
+      "town": "Caraquet",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Dieppe - boul. Dieppe Blvd",
+      "address": "780 boul. Dieppe Blvd, E1A 9G5",
+      "town": "Dieppe",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Dieppe - rue Regis St",
+      "address": "513 rue Regis Street, E1A 1Y2",
+      "town": "Dieppe",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Edmundston",
+      "address": "575 rue Victoria Street, E3V 3M8",
+      "town": "Edmundston",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Fredericton - Brookside Mall",
+      "address": "Brookside Mall Unit 25A, 435 prom. Brookside Drive, E3A 8V4",
+      "town": "Fredericton",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L"
+    },
+    {
+      "type": "corporate",
+      "store": "Fredericton - Corbett Centre",
+      "address": "18 Trinity Ave Unit F-3, E3C 0B8",
+      "town": "Fredericton",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Fredericton - Devon Park",
+      "address": "580 rue Union Street, E3A 3N7",
+      "town": "Fredericton",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Fredericton - rue York Street",
+      "address": "380 rue York Street, E3B 3P7",
+      "town": "Fredericton",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Grand Falls",
+      "address": "240-A ch. Madawaska Road, E3Y 1A5",
+      "town": "Grand Falls",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Hampton",
+      "address": "454 rue Main Street, E2N 6C1",
+      "town": "Hampton",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Miramichi - Chatham",
+      "address": "Chatham Shopping Mall, ave 2 Johnson Avenue PO Box 201, E1N 3A6",
+      "town": "Miramichi",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L"
+    },
+    {
+      "type": "corporate",
+      "store": "Miramichi - rue Pleasant St",
+      "address": "221 rue Pleasant Street, E1V 1Y6",
+      "town": "Miramichi",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Moncton - Vaughan Harvey",
+      "address": "53 boul. Vaughan Harvey Blvd., E1C 0N3",
+      "town": "Moncton",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Moncton - ch Mountain Road",
+      "address": "936 ch. Mountain Road, E1C 2S2",
+      "town": "Moncton",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Moncton - ch. Elmwood Drive",
+      "address": "71 ave Filles de Jesus Ave, E1A 9G6",
+      "town": "Moncton",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Moncton North / Nord",
+      "address": "1780 ch. Mountain Road, E1G 1A9",
+      "town": "Moncton",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Neguac",
+      "address": "948 rue Principale, E9G 1N7",
+      "town": "Neguac",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Oromocto",
+      "address": "375 ch. Miramichi Road, E2V 4T4",
+      "town": "Oromocto",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Richibucto",
+      "address": "12 Allee De La Cooperative, E4W 5V8",
+      "town": "Richibucto",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Riverview",
+      "address": "1160 boul. Findlay Blvd, E1B 0J6",
+      "town": "Riverview",
+      "products": "Snowfox Vodka 375 mL, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Kennebecasis Valley",
+      "address": "115 prom. Campbell Drive, E2E 6E4",
+      "town": "Rothesay",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Sackville",
+      "address": "11-A rue Wright Street, E4L 4P8",
+      "town": "Sackville",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L"
+    },
+    {
+      "type": "corporate",
+      "store": "Saint Andrews",
+      "address": "100 rue Water Street, E5B 1A6",
+      "town": "Saint Andrews",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Saint John - East Point",
+      "address": "40 East Point Way, E2J 0H5",
+      "town": "Saint John",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Saint John - Wellington Row",
+      "address": "10 rang Wellington Row, E2L 3H3",
+      "town": "Saint John",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L"
+    },
+    {
+      "type": "corporate",
+      "store": "Saint John - boul Fairville Bl",
+      "address": "31 ave Plaza Ave, E2M 0C2",
+      "town": "Saint John",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Saint John - rue Somerset St",
+      "address": "650 rue Somerset Street, E2K 2Y7",
+      "town": "Saint John",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Shediac",
+      "address": "313-B Main Street, E4P 2A8",
+      "town": "Shediac",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Shippagan",
+      "address": "268 Boulevard JD Gauthier Blvd, E8S 1R2",
+      "town": "Shippagan",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L"
+    },
+    {
+      "type": "corporate",
+      "store": "St. Stephen",
+      "address": "#160 - 210 rue King St, E3L 2E3",
+      "town": "St. Stephen",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L"
+    },
+    {
+      "type": "corporate",
+      "store": "Sussex",
+      "address": "138 rue Main Street Gateway Mall, Box 2D Compartment 2 Suite 2, E4E 3E1",
+      "town": "Sussex",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Tracadie-Sheila",
+      "address": "884 rue du Developpement St, E1X 0H6",
+      "town": "Tracadie-Sheila",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate",
+      "store": "Woodstock",
+      "address": "104 rue Gallop Street Ext, PO Box 732, E7M 0E3",
+      "town": "Woodstock",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 375 mL, Snowfox Vodka 1.14 L, Snowfox Dill 750 mL"
+    },
+    {
+      "type": "corporate (depot)",
+      "store": "Salisbury",
+      "address": "2999 ch. Fredericton Road, E4J 0B7",
+      "town": "Salisbury",
+      "products": "Snowfox Vodka 750 mL, Snowfox Vodka 1.14 L"
+    }
+  ],
+  "nslc": [
+    {
+      "store": "Amherst Mall",
+      "address": "126 South Albion Street",
+      "town": "Amherst",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2302"
+    },
+    {
+      "store": "Annapolis",
+      "address": "180 St. Anthony Street",
+      "town": "Annapolis Royal",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2501"
+    },
+    {
+      "store": "Antigonish",
+      "address": "151 Church Street",
+      "town": "Antigonish",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2303"
+    },
+    {
+      "store": "Arichat",
+      "address": "2743 Highway #206",
+      "town": "Arichat",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2407"
+    },
+    {
+      "store": "Bedford Superstore",
+      "address": "1650 Bedford Highway",
+      "town": "Bedford",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2202"
+    },
+    {
+      "store": "Mill Cove",
+      "address": "955 Bedford Highway",
+      "town": "Bedford",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2193"
+    },
+    {
+      "store": "Berwick",
+      "address": "200 Commercial Street",
+      "town": "Berwick",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2511"
+    },
+    {
+      "store": "Bridgetown",
+      "address": "51 Queen Street",
+      "town": "Bridgetown",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2515"
+    },
+    {
+      "store": "Bridgewater",
+      "address": "274 Dufferin Street",
+      "town": "Bridgewater",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2505"
+    },
+    {
+      "store": "Caledonia",
+      "address": "9838 Main",
+      "town": "Caledonia",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2509"
+    },
+    {
+      "store": "Canso",
+      "address": "454 Main Street",
+      "town": "Canso",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2312"
+    },
+    {
+      "store": "Chester",
+      "address": "209 Duke St",
+      "town": "Chester",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2115"
+    },
+    {
+      "store": "Forest Hills",
+      "address": "12 Forest Hills Parkway",
+      "town": "Cole Harbour",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2227"
+    },
+    {
+      "store": "Dartmouth Crossing",
+      "address": "47 Lemlair Row, B3B 0C6",
+      "town": "Dartmouth",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2218"
+    },
+    {
+      "store": "Portland St.",
+      "address": "650 Portland Street",
+      "town": "Dartmouth",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2226"
+    },
+    {
+      "store": "Tacoma",
+      "address": "62 Tacoma Drive",
+      "town": "Dartmouth",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2219"
+    },
+    {
+      "store": "Wyse Road",
+      "address": "210 Wyse Road",
+      "town": "Dartmouth",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2209"
+    },
+    {
+      "store": "Digby",
+      "address": "110A Warwick Street",
+      "town": "Digby",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2520"
+    },
+    {
+      "store": "Elmsdale",
+      "address": "293 Highway #214",
+      "town": "Elmsdale",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2223"
+    },
+    {
+      "store": "Fall River",
+      "address": "3290 Highway #2",
+      "town": "Fall River",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2225"
+    },
+    {
+      "store": "Glace Bay",
+      "address": "142 Reserve Street",
+      "town": "Glace Bay",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2426"
+    },
+    {
+      "store": "Agricola Street",
+      "address": "2559 Agricola Street",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2104"
+    },
+    {
+      "store": "Barrington Street",
+      "address": "1075 Barrington Street",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2106"
+    },
+    {
+      "store": "Bayers Lake Park",
+      "address": "214 Chain Lake Drive",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2108"
+    },
+    {
+      "store": "Joseph Howe Dr",
+      "address": "3601 Joseph Howe Drive",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2110"
+    },
+    {
+      "store": "Kearney Lake",
+      "address": "117 Kearney Lake Road",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2170"
+    },
+    {
+      "store": "Larry Uteck",
+      "address": "55 Peakview Way",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2107"
+    },
+    {
+      "store": "Novalea",
+      "address": "3576 Novalea Drive",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2135"
+    },
+    {
+      "store": "Queen Street",
+      "address": "1120 Queen Street",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2123"
+    },
+    {
+      "store": "Quinpool Road",
+      "address": "6169 Quinpool Road",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2165"
+    },
+    {
+      "store": "Spryfield",
+      "address": "279 Herring Cove Road",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2185"
+    },
+    {
+      "store": "West End Mall",
+      "address": "6990 Mumford Road",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2150"
+    },
+    {
+      "store": "Young Street",
+      "address": "6141 Young Street",
+      "town": "Halifax",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2154"
+    },
+    {
+      "store": "Kentville",
+      "address": "414 Main Street, Suite 1",
+      "town": "Kentville",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2546"
+    },
+    {
+      "store": "Kingston",
+      "address": "490 Main Street",
+      "town": "Kingston",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2548"
+    },
+    {
+      "store": "Liverpool",
+      "address": "50 Milton Road",
+      "town": "Liverpool",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2555"
+    },
+    {
+      "store": "Downsview Plaza",
+      "address": "752 Sackville Drive, Unit 114",
+      "town": "Lower Sackville",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2176"
+    },
+    {
+      "store": "West Pubnico",
+      "address": "1651 Highway #335",
+      "town": "Lower West Pubnico",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2590"
+    },
+    {
+      "store": "Lunenburg",
+      "address": "143 Victoria Road",
+      "town": "Lunenburg",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2565"
+    },
+    {
+      "store": "Middleton",
+      "address": "304 Main Street",
+      "town": "Middleton",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2573"
+    },
+    {
+      "store": "New Glasgow",
+      "address": "610 East River Road",
+      "town": "New Glasgow",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2345"
+    },
+    {
+      "store": "West N Glasgow",
+      "address": "38 George Street",
+      "town": "New Glasgow",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2347"
+    },
+    {
+      "store": "New Minas",
+      "address": "9256 Commercial St., Unit 230",
+      "town": "New Minas",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2574"
+    },
+    {
+      "store": "North Sydney",
+      "address": "125 King Street",
+      "town": "North Sydney",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2451"
+    },
+    {
+      "store": "Parrsboro",
+      "address": "703 Upper Main Street",
+      "town": "Parrsboro",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2343"
+    },
+    {
+      "store": "Pictou",
+      "address": "45 West River Road",
+      "town": "Pictou",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2348"
+    },
+    {
+      "store": "Port Hawkesbury",
+      "address": "634 Reeves Street, Unit 1",
+      "town": "Port Hawkesbury",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2455"
+    },
+    {
+      "store": "Porters Lake",
+      "address": "5240 Highway #7, Unit 2",
+      "town": "Porters Lake",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2270"
+    },
+    {
+      "store": "Springhill",
+      "address": "21 Main Street",
+      "town": "Springhill",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2367"
+    },
+    {
+      "store": "Stewiacke",
+      "address": "10 Asquith Avenue",
+      "town": "Stewiake",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2285"
+    },
+    {
+      "store": "Sydney",
+      "address": "248 Prince Street",
+      "town": "Sydney",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2479"
+    },
+    {
+      "store": "Sydney Mines",
+      "address": "49 Pitt Street",
+      "town": "Sydney Mines",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2490"
+    },
+    {
+      "store": "Sydney River",
+      "address": "95 Keltic Drive",
+      "town": "Sydney River",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2496"
+    },
+    {
+      "store": "Sydney Welton St",
+      "address": "384 Welton Street",
+      "town": "Sydney River",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2481"
+    },
+    {
+      "store": "Tatamagouch",
+      "address": "122 Main Street",
+      "town": "Tatamagouche",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2382"
+    },
+    {
+      "store": "Truro",
+      "address": "6 Court Street",
+      "town": "Truro",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2392"
+    },
+    {
+      "store": "Truro Mall",
+      "address": "985 Prince Street",
+      "town": "Truro",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2394"
+    },
+    {
+      "store": "Tantallon",
+      "address": "3650 Hammonds Plains Road",
+      "town": "Upper Tantallon",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2195"
+    },
+    {
+      "store": "Weymouth",
+      "address": "4637 Highway 1, B0W 3T0",
+      "town": "Weymouth",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2591"
+    },
+    {
+      "store": "Whitney Pier",
+      "address": "735 Victoria Road",
+      "town": "Whitney",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2483"
+    },
+    {
+      "store": "Windsor",
+      "address": "11 Cole Drive",
+      "town": "Windsor",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2196"
+    },
+    {
+      "store": "Wolfville",
+      "address": "122 Front Street",
+      "town": "Wolfville",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2595"
+    },
+    {
+      "store": "Yarmouth",
+      "address": "104a Starrs Road",
+      "town": "Yarmouth",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "2598"
+    }
+  ],
+  "pei": [
+    {
+      "store": "Alberton",
+      "address": "491 Church Street",
+      "town": "Alberton",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 750 mL",
+      "number": "001"
+    },
+    {
+      "store": "Gateway (Borden-Carleton)",
+      "address": "100 Abegweit Blvd.",
+      "town": "Borden-Carleton",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "002"
+    },
+    {
+      "store": "Cardigan",
+      "address": "4380 Chapel Road, Route 321",
+      "town": "Cardigan",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "201"
+    },
+    {
+      "store": "Oaktree",
+      "address": "43 Pond Street, Unit 1",
+      "town": "Charlottetown",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "102"
+    },
+    {
+      "store": "Queen Street",
+      "address": "84 Queen Street",
+      "town": "Charlottetown",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "101"
+    },
+    {
+      "store": "West Royalty",
+      "address": "193 Minna Jane Road, Suite 3",
+      "town": "Charlottetown",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "104"
+    },
+    {
+      "store": "Cornwall",
+      "address": "17-25 Meadowbank Rd, Cornwall Plaza",
+      "town": "Cornwall",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "106"
+    },
+    {
+      "store": "Kensington",
+      "address": "62 Broadway Street",
+      "town": "Kensington",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "007"
+    },
+    {
+      "store": "Montague",
+      "address": "509 Main Street",
+      "town": "Montague",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "203"
+    },
+    {
+      "store": "Rustico",
+      "address": "7367 Cavendish Road, Route 6",
+      "town": "North Rustico",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "103"
+    },
+    {
+      "store": "O'Leary",
+      "address": "2 Royal Avenue",
+      "town": "O'Leary",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 750 mL",
+      "number": "003"
+    },
+    {
+      "store": "Souris",
+      "address": "189 Main Street",
+      "town": "Souris",
+      "products": "Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "202"
+    },
+    {
+      "store": "Stratford",
+      "address": "9 Kinlock Road",
+      "town": "Stratford",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "107"
+    },
+    {
+      "store": "Granville/Sherbrooke (Summerside)",
+      "address": "475 Granville North",
+      "town": "Summerside",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "004"
+    },
+    {
+      "store": "Waterfront (Summerside)",
+      "address": "98 Water St.",
+      "town": "Summerside",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 375 mL, Snowfox Vodka 750 mL",
+      "number": "005"
+    },
+    {
+      "store": "Tignish",
+      "address": "210 Mill Road",
+      "town": "Tignish",
+      "products": "Snowfox Vodka 1.14 L, Snowfox Vodka 750 mL",
+      "number": "006"
+    },
+    {
+      "store": "Tyne Valley",
+      "address": "7068 Route 12",
+      "town": "Tyne Valley",
+      "products": "Snowfox Vodka 750 mL",
+      "number": "009"
+    }
+  ]
+}

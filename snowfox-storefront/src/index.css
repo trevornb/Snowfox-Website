@@ -1,0 +1,62 @@
+:root {
+  --ink: #071018;
+  --ink-soft: #101a24;
+  --frost: #e8f2f0;
+  --mist: #a7b8b4;
+  --ice: #9fd4c8;
+  --ice-deep: #5f9e93;
+  --line: rgba(232, 242, 240, 0.14);
+  --glow: rgba(159, 212, 200, 0.18);
+
+  --display: 'Syne', sans-serif;
+  --body: 'Figtree', sans-serif;
+
+  color: var(--frost);
+  background: var(--ink);
+  font-family: var(--body);
+  font-size: 17px;
+  line-height: 1.5;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100svh;
+  background: var(--ink);
+}
+
+#root {
+  min-height: 100svh;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: inherit;
+}
+
+button,
+select {
+  font: inherit;
+}
+
+::selection {
+  background: var(--ice);
+  color: var(--ink);
+}
